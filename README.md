@@ -1,6 +1,6 @@
 ### Hello people!
 
-I'm Vinicius a 31 years old developer👨🏽‍💻 with 16 years messing with IT and 3 of them web developing with Ruby and Rails ~(I already developed in C and Java, but I don't want to talk about these previous crimes)~.
+I'm Vinicius a 90's boy developer👨🏽‍💻 messing with IT since 2005 and since 2017 working with web developing with Ruby and/on Rails ~(I already developed in C and Java, but I don't want to talk about these previous crimes)~.
 
 Before I become a developer I made a course on [Campus Code](https://www.campuscode.com.br) to learn about Rails with TDD and best practices.
 
