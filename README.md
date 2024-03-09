@@ -1,6 +1,7 @@
 ### Hello people!
 
-I'm Vinicius a 90's boy developer👨🏽‍💻 messing with IT since 2005 and since 2017 working with web developing with Ruby and/on Rails ~(I already developed in C and Java, but I don't want to talk about these previous crimes)~.
+I'm Vinicius a 90's developer👨🏽‍💻boy, that's messing with IT since 2005 and since 2017 working with web developing with Ruby and/on Rails.
+I already developed in C and even Java... ~but I don't want to talk about these previous crime~.
 
 Before I become a developer I made a course on [Campus Code](https://www.campuscode.com.br) to learn about Rails with TDD and best practices.
 
@@ -11,3 +12,5 @@ How to find me:
 [![vinylimaz.dev](https://img.shields.io/badge/VinyLimaZ-site%2Fblog-brightgreen)](https://vinylimaz.dev) <- I'm in project to write to my site! I swear!
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinylimaz)  
+
+
